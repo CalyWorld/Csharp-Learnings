@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "guided-project- develop foreach and if-else structures/1.0.0": {
+        "runtime": {
+          "guided-project- develop foreach and if-else structures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "guided-project- develop foreach and if-else structures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

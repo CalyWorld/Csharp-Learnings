@@ -1,0 +1,15 @@
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/bin/Debug/net8.0/guided-project- develop foreach and if-else structures
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/bin/Debug/net8.0/guided-project- develop foreach and if-else structures.deps.json
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/bin/Debug/net8.0/guided-project- develop foreach and if-else structures.runtimeconfig.json
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/bin/Debug/net8.0/guided-project- develop foreach and if-else structures.dll
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/bin/Debug/net8.0/guided-project- develop foreach and if-else structures.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/obj/Debug/net8.0/guided-project- develop foreach and if-else structures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/obj/Debug/net8.0/guided-project- develop foreach and if-else structures.AssemblyInfoInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/obj/Debug/net8.0/guided-project- develop foreach and if-else structures.AssemblyInfo.cs
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/obj/Debug/net8.0/guided-project- develop foreach and if-else structures.csproj.CoreCompileInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/obj/Debug/net8.0/guided-project- develop foreach and if-else structures.sourcelink.json
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/obj/Debug/net8.0/guided-project- develop foreach and if-else structures.dll
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/obj/Debug/net8.0/refint/guided-project- develop foreach and if-else structures.dll
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/obj/Debug/net8.0/guided-project- develop foreach and if-else structures.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/obj/Debug/net8.0/guided-project- develop foreach and if-else structures.genruntimeconfig.cache
+/Users/cal/Csharp-Learnings/c#-beginner/guided-project- develop foreach and if-else structures/obj/Debug/net8.0/ref/guided-project- develop foreach and if-else structures.dll
