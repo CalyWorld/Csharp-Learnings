@@ -1,0 +1,14 @@
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/bin/Debug/net8.0/if-else-challenge
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/bin/Debug/net8.0/if-else-challenge.deps.json
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/bin/Debug/net8.0/if-else-challenge.runtimeconfig.json
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/bin/Debug/net8.0/if-else-challenge.dll
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/bin/Debug/net8.0/if-else-challenge.pdb
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/obj/Debug/net8.0/if-else-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/obj/Debug/net8.0/if-else-challenge.AssemblyInfoInputs.cache
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/obj/Debug/net8.0/if-else-challenge.AssemblyInfo.cs
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/obj/Debug/net8.0/if-else-challenge.csproj.CoreCompileInputs.cache
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/obj/Debug/net8.0/if-else-challenge.dll
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/obj/Debug/net8.0/refint/if-else-challenge.dll
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/obj/Debug/net8.0/if-else-challenge.pdb
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/obj/Debug/net8.0/if-else-challenge.genruntimeconfig.cache
+/Users/cal/C#-learnings/c-beginner/if-else-challenge/obj/Debug/net8.0/ref/if-else-challenge.dll

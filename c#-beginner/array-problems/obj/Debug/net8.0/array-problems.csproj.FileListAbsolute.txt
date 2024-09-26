@@ -1,0 +1,14 @@
+/Users/cal/C#-learnings/array-problems/array-problems/bin/Debug/net8.0/array-problems
+/Users/cal/C#-learnings/array-problems/array-problems/bin/Debug/net8.0/array-problems.deps.json
+/Users/cal/C#-learnings/array-problems/array-problems/bin/Debug/net8.0/array-problems.runtimeconfig.json
+/Users/cal/C#-learnings/array-problems/array-problems/bin/Debug/net8.0/array-problems.dll
+/Users/cal/C#-learnings/array-problems/array-problems/bin/Debug/net8.0/array-problems.pdb
+/Users/cal/C#-learnings/array-problems/array-problems/obj/Debug/net8.0/array-problems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/C#-learnings/array-problems/array-problems/obj/Debug/net8.0/array-problems.AssemblyInfoInputs.cache
+/Users/cal/C#-learnings/array-problems/array-problems/obj/Debug/net8.0/array-problems.AssemblyInfo.cs
+/Users/cal/C#-learnings/array-problems/array-problems/obj/Debug/net8.0/array-problems.csproj.CoreCompileInputs.cache
+/Users/cal/C#-learnings/array-problems/array-problems/obj/Debug/net8.0/array-problems.dll
+/Users/cal/C#-learnings/array-problems/array-problems/obj/Debug/net8.0/refint/array-problems.dll
+/Users/cal/C#-learnings/array-problems/array-problems/obj/Debug/net8.0/array-problems.pdb
+/Users/cal/C#-learnings/array-problems/array-problems/obj/Debug/net8.0/array-problems.genruntimeconfig.cache
+/Users/cal/C#-learnings/array-problems/array-problems/obj/Debug/net8.0/ref/array-problems.dll
