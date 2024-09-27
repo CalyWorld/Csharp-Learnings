@@ -1,0 +1,15 @@
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/bin/Debug/net8.0/evaluating equality and inequality
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/bin/Debug/net8.0/evaluating equality and inequality.deps.json
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/bin/Debug/net8.0/evaluating equality and inequality.runtimeconfig.json
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/bin/Debug/net8.0/evaluating equality and inequality.dll
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/bin/Debug/net8.0/evaluating equality and inequality.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/obj/Debug/net8.0/evaluating equality and inequality.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/obj/Debug/net8.0/evaluating equality and inequality.AssemblyInfoInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/obj/Debug/net8.0/evaluating equality and inequality.AssemblyInfo.cs
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/obj/Debug/net8.0/evaluating equality and inequality.csproj.CoreCompileInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/obj/Debug/net8.0/evaluating equality and inequality.sourcelink.json
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/obj/Debug/net8.0/evaluating equality and inequality.dll
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/obj/Debug/net8.0/refint/evaluating equality and inequality.dll
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/obj/Debug/net8.0/evaluating equality and inequality.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/obj/Debug/net8.0/evaluating equality and inequality.genruntimeconfig.cache
+/Users/cal/Csharp-Learnings/c#-beginner/evaluating equality and inequality/obj/Debug/net8.0/ref/evaluating equality and inequality.dll

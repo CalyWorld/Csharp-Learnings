@@ -1,0 +1,15 @@
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/obj/Debug/net8.0/coin-challenge-conditional-operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/obj/Debug/net8.0/coin-challenge-conditional-operator.AssemblyInfoInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/obj/Debug/net8.0/coin-challenge-conditional-operator.AssemblyInfo.cs
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/obj/Debug/net8.0/coin-challenge-conditional-operator.csproj.CoreCompileInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/obj/Debug/net8.0/coin-challenge-conditional-operator.sourcelink.json
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/bin/Debug/net8.0/coin-challenge-conditional-operator
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/bin/Debug/net8.0/coin-challenge-conditional-operator.deps.json
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/bin/Debug/net8.0/coin-challenge-conditional-operator.runtimeconfig.json
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/bin/Debug/net8.0/coin-challenge-conditional-operator.dll
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/bin/Debug/net8.0/coin-challenge-conditional-operator.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/obj/Debug/net8.0/coin-challenge-conditional-operator.dll
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/obj/Debug/net8.0/refint/coin-challenge-conditional-operator.dll
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/obj/Debug/net8.0/coin-challenge-conditional-operator.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/obj/Debug/net8.0/coin-challenge-conditional-operator.genruntimeconfig.cache
+/Users/cal/Csharp-Learnings/c#-beginner/coin-challenge-conditional-operator/obj/Debug/net8.0/ref/coin-challenge-conditional-operator.dll
