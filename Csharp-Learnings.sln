@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "conditional-operators", "c#
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "if-else-challenge", "c#-beginner\if-else-challenge\if-else-challenge.csproj", "{39C5ACCF-A66C-4F22-A780-17EA7BA24777}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch-case", "switch-case\switch-case.csproj", "{5397310A-239C-4506-881A-E876E2439167}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{39C5ACCF-A66C-4F22-A780-17EA7BA24777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39C5ACCF-A66C-4F22-A780-17EA7BA24777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39C5ACCF-A66C-4F22-A780-17EA7BA24777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5397310A-239C-4506-881A-E876E2439167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5397310A-239C-4506-881A-E876E2439167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5397310A-239C-4506-881A-E876E2439167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5397310A-239C-4506-881A-E876E2439167}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

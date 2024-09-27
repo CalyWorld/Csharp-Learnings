@@ -1,0 +1,15 @@
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/obj/Debug/net8.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/obj/Debug/net8.0/switch-case.AssemblyInfoInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/obj/Debug/net8.0/switch-case.AssemblyInfo.cs
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/obj/Debug/net8.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/obj/Debug/net8.0/switch-case.sourcelink.json
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/bin/Debug/net8.0/switch-case
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/bin/Debug/net8.0/switch-case.deps.json
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/bin/Debug/net8.0/switch-case.runtimeconfig.json
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/bin/Debug/net8.0/switch-case.dll
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/bin/Debug/net8.0/switch-case.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/obj/Debug/net8.0/switch-case.dll
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/obj/Debug/net8.0/refint/switch-case.dll
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/obj/Debug/net8.0/switch-case.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/obj/Debug/net8.0/switch-case.genruntimeconfig.cache
+/Users/cal/Csharp-Learnings/c#-beginner/switch-case/obj/Debug/net8.0/ref/switch-case.dll
