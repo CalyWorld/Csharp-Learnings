@@ -1,0 +1,15 @@
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/obj/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/obj/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.AssemblyInfoInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/obj/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.AssemblyInfo.cs
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/obj/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.csproj.CoreCompileInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/obj/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.sourcelink.json
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/bin/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/bin/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.deps.json
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/bin/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.runtimeconfig.json
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/bin/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.dll
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/bin/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/obj/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.dll
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/obj/Debug/net8.0/refint/Complete-a-challenge-activity-using-variable-scope.dll
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/obj/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/obj/Debug/net8.0/Complete-a-challenge-activity-using-variable-scope.genruntimeconfig.cache
+/Users/cal/Csharp-Learnings/c#-beginner/Complete-a-challenge-activity-using-variable-scope/obj/Debug/net8.0/ref/Complete-a-challenge-activity-using-variable-scope.dll

@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evaluating equality and ine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coin-challenge-conditional-operator", "coin-challenge-conditional-operator\coin-challenge-conditional-operator.csproj", "{96A3240D-6B1A-487D-81CC-833AEC4DA3C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complete-a-challenge-activity-using-variable-scope", "Complete-a-challenge-activity-using-variable-scope\Complete-a-challenge-activity-using-variable-scope.csproj", "{0E6157E1-4EF8-4A50-841F-398344F88F4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{96A3240D-6B1A-487D-81CC-833AEC4DA3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96A3240D-6B1A-487D-81CC-833AEC4DA3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96A3240D-6B1A-487D-81CC-833AEC4DA3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6157E1-4EF8-4A50-841F-398344F88F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6157E1-4EF8-4A50-841F-398344F88F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6157E1-4EF8-4A50-841F-398344F88F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6157E1-4EF8-4A50-841F-398344F88F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

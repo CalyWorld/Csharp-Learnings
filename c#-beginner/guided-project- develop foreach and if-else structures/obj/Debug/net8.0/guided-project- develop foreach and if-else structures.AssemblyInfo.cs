@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("guided-project- develop foreach and if-else structures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89763a0921b8a821496618016bdf339804c260ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b0d483c430bb9d76f5d6682fa9bc340fe4ce637")]
 [assembly: System.Reflection.AssemblyProductAttribute("guided-project- develop foreach and if-else structures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("guided-project- develop foreach and if-else structures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
