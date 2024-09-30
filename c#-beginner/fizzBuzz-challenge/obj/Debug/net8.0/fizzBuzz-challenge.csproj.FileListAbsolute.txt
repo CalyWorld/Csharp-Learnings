@@ -1,0 +1,15 @@
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/bin/Debug/net8.0/fizzBuzz-challenge
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/bin/Debug/net8.0/fizzBuzz-challenge.deps.json
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/bin/Debug/net8.0/fizzBuzz-challenge.runtimeconfig.json
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/bin/Debug/net8.0/fizzBuzz-challenge.dll
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/bin/Debug/net8.0/fizzBuzz-challenge.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/obj/Debug/net8.0/fizzBuzz-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/obj/Debug/net8.0/fizzBuzz-challenge.AssemblyInfoInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/obj/Debug/net8.0/fizzBuzz-challenge.AssemblyInfo.cs
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/obj/Debug/net8.0/fizzBuzz-challenge.csproj.CoreCompileInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/obj/Debug/net8.0/fizzBuzz-challenge.sourcelink.json
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/obj/Debug/net8.0/fizzBuzz-challenge.dll
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/obj/Debug/net8.0/refint/fizzBuzz-challenge.dll
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/obj/Debug/net8.0/fizzBuzz-challenge.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/obj/Debug/net8.0/fizzBuzz-challenge.genruntimeconfig.cache
+/Users/cal/Csharp-Learnings/c#-beginner/fizzBuzz-challenge/obj/Debug/net8.0/ref/fizzBuzz-challenge.dll
