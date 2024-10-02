@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("do-whille-statements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37368110323a1e9110ac8dc621ce1c95a775d527")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edbfaa4016f79a5e37f04bf33a370937d2570298")]
 [assembly: System.Reflection.AssemblyProductAttribute("do-whille-statements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("do-whille-statements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

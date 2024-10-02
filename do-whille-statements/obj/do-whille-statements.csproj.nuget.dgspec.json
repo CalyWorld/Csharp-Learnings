@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cal/Csharp-Learnings/c#-beginner/do-whille-statements/do-whille-statements.csproj": {}
+    "/Users/cal/Csharp-Learnings/do-whille-statements/do-whille-statements.csproj": {}
   },
   "projects": {
-    "/Users/cal/Csharp-Learnings/c#-beginner/do-whille-statements/do-whille-statements.csproj": {
+    "/Users/cal/Csharp-Learnings/do-whille-statements/do-whille-statements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cal/Csharp-Learnings/c#-beginner/do-whille-statements/do-whille-statements.csproj",
+        "projectUniqueName": "/Users/cal/Csharp-Learnings/do-whille-statements/do-whille-statements.csproj",
         "projectName": "do-whille-statements",
-        "projectPath": "/Users/cal/Csharp-Learnings/c#-beginner/do-whille-statements/do-whille-statements.csproj",
+        "projectPath": "/Users/cal/Csharp-Learnings/do-whille-statements/do-whille-statements.csproj",
         "packagesPath": "/Users/cal/.nuget/packages/",
-        "outputPath": "/Users/cal/Csharp-Learnings/c#-beginner/do-whille-statements/obj/",
+        "outputPath": "/Users/cal/Csharp-Learnings/do-whille-statements/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cal/.nuget/NuGet/NuGet.Config"
