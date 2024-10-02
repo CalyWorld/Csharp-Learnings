@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fizzBuzz-challenge", "fizzB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-whille-statements", "do-whille-statements\do-whille-statements.csproj", "{72E9764D-9263-4CEB-8C9F-319213B112B8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "role-playing-game-battle-challenge-using-do-while", "role-playing-game-battle-challenge-using-do-while", "{7A174C0D-97C6-4F9E-9058-F4EE699D5C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while", "role-playing-game-battle-challenge-using-do-while\while\while.csproj", "{D903279A-BBD0-48C1-9D98-222A341AD873}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +75,10 @@ Global
 		{72E9764D-9263-4CEB-8C9F-319213B112B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72E9764D-9263-4CEB-8C9F-319213B112B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72E9764D-9263-4CEB-8C9F-319213B112B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D903279A-BBD0-48C1-9D98-222A341AD873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D903279A-BBD0-48C1-9D98-222A341AD873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D903279A-BBD0-48C1-9D98-222A341AD873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D903279A-BBD0-48C1-9D98-222A341AD873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,6 +88,7 @@ Global
 		{04249EBB-F8C7-40A9-934F-24ECEBD412D5} = {89482653-B853-4A74-B3D2-896359248599}
 		{3E8CD681-7589-4F71-AAC3-745196C776C1} = {89482653-B853-4A74-B3D2-896359248599}
 		{39C5ACCF-A66C-4F22-A780-17EA7BA24777} = {89482653-B853-4A74-B3D2-896359248599}
+		{D903279A-BBD0-48C1-9D98-222A341AD873} = {7A174C0D-97C6-4F9E-9058-F4EE699D5C30}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3842E5F9-A775-456E-937F-B4E8BA9FF789}

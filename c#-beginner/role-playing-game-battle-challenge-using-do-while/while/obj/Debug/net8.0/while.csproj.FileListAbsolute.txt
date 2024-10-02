@@ -1,0 +1,15 @@
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/bin/Debug/net8.0/while
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/bin/Debug/net8.0/while.deps.json
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/bin/Debug/net8.0/while.runtimeconfig.json
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/bin/Debug/net8.0/while.dll
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/bin/Debug/net8.0/while.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/obj/Debug/net8.0/while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/obj/Debug/net8.0/while.AssemblyInfoInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/obj/Debug/net8.0/while.AssemblyInfo.cs
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/obj/Debug/net8.0/while.csproj.CoreCompileInputs.cache
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/obj/Debug/net8.0/while.sourcelink.json
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/obj/Debug/net8.0/while.dll
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/obj/Debug/net8.0/refint/while.dll
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/obj/Debug/net8.0/while.pdb
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/obj/Debug/net8.0/while.genruntimeconfig.cache
+/Users/cal/Csharp-Learnings/c#-beginner/role-playing-game-battle-challenge-using-do-while/while/obj/Debug/net8.0/ref/while.dll
