@@ -1,0 +1,15 @@
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/obj/Debug/net8.0/Indexof&LastIndexOf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/obj/Debug/net8.0/Indexof&LastIndexOf.AssemblyInfoInputs.cache
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/obj/Debug/net8.0/Indexof&LastIndexOf.AssemblyInfo.cs
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/obj/Debug/net8.0/Indexof&LastIndexOf.csproj.CoreCompileInputs.cache
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/obj/Debug/net8.0/Indexof&LastIndexOf.sourcelink.json
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/bin/Debug/net8.0/Indexof&LastIndexOf
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/bin/Debug/net8.0/Indexof&LastIndexOf.deps.json
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/bin/Debug/net8.0/Indexof&LastIndexOf.runtimeconfig.json
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/bin/Debug/net8.0/Indexof&LastIndexOf.dll
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/bin/Debug/net8.0/Indexof&LastIndexOf.pdb
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/obj/Debug/net8.0/Indexof&LastIndexOf.dll
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/obj/Debug/net8.0/refint/Indexof&LastIndexOf.dll
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/obj/Debug/net8.0/Indexof&LastIndexOf.pdb
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/obj/Debug/net8.0/Indexof&LastIndexOf.genruntimeconfig.cache
+/Users/cal/Csharp-Learnings/Indexof&LastIndexOf/obj/Debug/net8.0/ref/Indexof&LastIndexOf.dll

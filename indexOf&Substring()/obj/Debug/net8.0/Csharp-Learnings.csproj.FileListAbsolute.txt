@@ -1,0 +1,15 @@
+/Users/cal/Csharp-Learnings/indexOf&Substring()/obj/Debug/net8.0/Csharp-Learnings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/Csharp-Learnings/indexOf&Substring()/obj/Debug/net8.0/Csharp-Learnings.AssemblyInfoInputs.cache
+/Users/cal/Csharp-Learnings/indexOf&Substring()/obj/Debug/net8.0/Csharp-Learnings.AssemblyInfo.cs
+/Users/cal/Csharp-Learnings/indexOf&Substring()/obj/Debug/net8.0/Csharp-Learnings.csproj.CoreCompileInputs.cache
+/Users/cal/Csharp-Learnings/indexOf&Substring()/obj/Debug/net8.0/Csharp-Learnings.sourcelink.json
+/Users/cal/Csharp-Learnings/indexOf&Substring()/bin/Debug/net8.0/Csharp-Learnings
+/Users/cal/Csharp-Learnings/indexOf&Substring()/bin/Debug/net8.0/Csharp-Learnings.deps.json
+/Users/cal/Csharp-Learnings/indexOf&Substring()/bin/Debug/net8.0/Csharp-Learnings.runtimeconfig.json
+/Users/cal/Csharp-Learnings/indexOf&Substring()/bin/Debug/net8.0/Csharp-Learnings.dll
+/Users/cal/Csharp-Learnings/indexOf&Substring()/bin/Debug/net8.0/Csharp-Learnings.pdb
+/Users/cal/Csharp-Learnings/indexOf&Substring()/obj/Debug/net8.0/Csharp-Learnings.dll
+/Users/cal/Csharp-Learnings/indexOf&Substring()/obj/Debug/net8.0/refint/Csharp-Learnings.dll
+/Users/cal/Csharp-Learnings/indexOf&Substring()/obj/Debug/net8.0/Csharp-Learnings.pdb
+/Users/cal/Csharp-Learnings/indexOf&Substring()/obj/Debug/net8.0/Csharp-Learnings.genruntimeconfig.cache
+/Users/cal/Csharp-Learnings/indexOf&Substring()/obj/Debug/net8.0/ref/Csharp-Learnings.dll

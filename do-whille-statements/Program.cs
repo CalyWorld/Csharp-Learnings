@@ -140,7 +140,7 @@ for (int i = 0; i < stringsCount; i++)
 
         Console.WriteLine(mySentence);
     }
- 
+
     mySentence = myString.Trim();
     Console.WriteLine(mySentence);
 }
