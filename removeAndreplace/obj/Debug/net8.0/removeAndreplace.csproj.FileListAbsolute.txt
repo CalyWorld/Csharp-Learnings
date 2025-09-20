@@ -1,0 +1,15 @@
+/Users/cal/Csharp-Learnings/removeAndreplace/obj/Debug/net8.0/removeAndreplace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cal/Csharp-Learnings/removeAndreplace/obj/Debug/net8.0/removeAndreplace.AssemblyInfoInputs.cache
+/Users/cal/Csharp-Learnings/removeAndreplace/obj/Debug/net8.0/removeAndreplace.AssemblyInfo.cs
+/Users/cal/Csharp-Learnings/removeAndreplace/obj/Debug/net8.0/removeAndreplace.csproj.CoreCompileInputs.cache
+/Users/cal/Csharp-Learnings/removeAndreplace/obj/Debug/net8.0/removeAndreplace.sourcelink.json
+/Users/cal/Csharp-Learnings/removeAndreplace/bin/Debug/net8.0/removeAndreplace
+/Users/cal/Csharp-Learnings/removeAndreplace/bin/Debug/net8.0/removeAndreplace.deps.json
+/Users/cal/Csharp-Learnings/removeAndreplace/bin/Debug/net8.0/removeAndreplace.runtimeconfig.json
+/Users/cal/Csharp-Learnings/removeAndreplace/bin/Debug/net8.0/removeAndreplace.dll
+/Users/cal/Csharp-Learnings/removeAndreplace/bin/Debug/net8.0/removeAndreplace.pdb
+/Users/cal/Csharp-Learnings/removeAndreplace/obj/Debug/net8.0/removeAndreplace.dll
+/Users/cal/Csharp-Learnings/removeAndreplace/obj/Debug/net8.0/refint/removeAndreplace.dll
+/Users/cal/Csharp-Learnings/removeAndreplace/obj/Debug/net8.0/removeAndreplace.pdb
+/Users/cal/Csharp-Learnings/removeAndreplace/obj/Debug/net8.0/removeAndreplace.genruntimeconfig.cache
+/Users/cal/Csharp-Learnings/removeAndreplace/obj/Debug/net8.0/ref/removeAndreplace.dll

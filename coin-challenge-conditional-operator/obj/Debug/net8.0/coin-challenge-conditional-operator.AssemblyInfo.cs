@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("coin-challenge-conditional-operator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34066fc888ad880c15555533f51a64ded2809b4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c17f203d7a57ca0bf345de70127000ace4a673d")]
 [assembly: System.Reflection.AssemblyProductAttribute("coin-challenge-conditional-operator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("coin-challenge-conditional-operator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
